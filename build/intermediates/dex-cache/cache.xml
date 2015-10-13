@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jacobmuchow/AndroidStudioProjects/Networking/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/jacobmuchow/AndroidStudioProjects/Networking/app/build/intermediates/pre-dexed/debug/classes-54e6ce9e8452b11c8f69e242a2f3f0eb26ff1199.jar" />
+    </item>
+    <item
+        jar="/Users/jacobmuchow/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/jacobmuchow/AndroidStudioProjects/Networking/app/build/intermediates/pre-dexed/debug/okio-1.6.0-00a784a10c775aa53e76f5960381b576181b1378.jar" />
+    </item>
+    <item
+        jar="/Users/jacobmuchow/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.83.0/fcc995aa3a075352049ed77afb34c61559a73931/realm-android-0.83.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fcc995aa3a075352049ed77afb34c61559a73931">
+        <dex dex="/Users/jacobmuchow/AndroidStudioProjects/Networking/app/build/intermediates/pre-dexed/debug/realm-android-0.83.0-7c4ec70212096dba1750bb5170e50136dd6e90f4.jar" />
+    </item>
+    <item
+        jar="/Users/jacobmuchow/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/jacobmuchow/AndroidStudioProjects/Networking/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-2958ac7bebcc830f08dea802898619e450c75ffe.jar" />
+    </item>
+    <item
+        jar="/Users/jacobmuchow/AndroidStudioProjects/Networking/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/jacobmuchow/AndroidStudioProjects/Networking/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-d83a50981afbfcfd945170ad84cdc8d0540a57b6.jar" />
+    </item>
+    <item
+        jar="/Users/jacobmuchow/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/jacobmuchow/AndroidStudioProjects/Networking/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-68ce7e6d15ce2c4bbb1cc552feb1790da9f05619.jar" />
+    </item>
+    <item
+        jar="/Users/jacobmuchow/AndroidStudioProjects/Networking/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/jacobmuchow/AndroidStudioProjects/Networking/app/build/intermediates/pre-dexed/debug/classes-69b843b57232c4bcff8f4095eebb82fa6b2477d3.jar" />
+    </item>
+
+</items>
